@@ -54,12 +54,12 @@ Key steps performed in SQL:
 ## 📐 Key Metrics & KPIs Created
 The following metrics were calculated using **SQL and DAX**:
 - Average & Median Revenue per Customer
-- Total Revenue & Orders
-- Revenue per Store
+- Total Revenue & Customers
+- Revenue per Product
 - Revenue per Customer Age Group
 - Daily, Monthly, and Yearly Revenue
 - Brand-wise & Category-wise Revenue and Orders
-- Country-wise Store Performance
+- Continent-wise Store Performance
 - Top-Selling Products by:
   - Revenue
   - Orders
@@ -70,7 +70,6 @@ The following metrics were calculated using **SQL and DAX**:
 ## 📊 Power BI Dashboard Highlights
 
 ### 📈 Revenue Trends
-- Daily revenue
 - Monthly revenue
 - Yearly revenue
 
