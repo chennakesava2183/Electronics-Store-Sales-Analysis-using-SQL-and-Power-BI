@@ -49,6 +49,9 @@ https://mavenanalytics.io/data-playground/global-electronics-retailer
 ## 🧹 Data Cleaning & Preparation (SQL)
 Key steps performed in SQL:
 - Removed invalid or incomplete records
+
+<img width="203" height="93" alt="SQL - Data Cleaning_02" src="https://github.com/user-attachments/assets/157a7608-3e30-4d9b-a0be-a9a6df584d9c" />  <img width="163" height="84" alt="SQL - Data Cleaning_03" src="https://github.com/user-attachments/assets/1ace2c95-e550-4e34-8926-43c431e89708" />  <img width="161" height="261" alt="SQL - Data Cleaning_01" src="https://github.com/user-attachments/assets/6722b9a2-a078-433e-a835-9bf6aa5eb995" />
+
 - Standardized date and currency formats
 - Converted revenue into **USD using exchange rates**
 - Joined fact and dimension tables
