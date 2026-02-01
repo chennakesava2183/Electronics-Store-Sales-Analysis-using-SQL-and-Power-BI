@@ -54,8 +54,15 @@ Key steps performed in SQL:
 
 - Standardized date and currency formats
 - Converted revenue into **USD using exchange rates**
-- Joined fact and dimension tables
+- Joined fact and dimension tables and created VIEWS for Power BI
+
+
+ <img width="429" height="504" alt="SQL Main" src="https://github.com/user-attachments/assets/440e6f51-d494-4bdc-95c1-45bdaec39a52" />
+ 
 - Created derived metrics for analysis
+
+<img width="365" height="592" alt="SQL - Repeated Cust" src="https://github.com/user-attachments/assets/b5eb7386-735a-4674-bcc4-0e23a72538e3" />
+
 
 ---
 
