@@ -41,6 +41,11 @@ The dataset consists of multiple relational tables:
 
 ---
 
+## Dataset File - 
+https://mavenanalytics.io/data-playground/global-electronics-retailer
+
+---
+
 ## 🧹 Data Cleaning & Preparation (SQL)
 Key steps performed in SQL:
 - Removed invalid or incomplete records
