@@ -63,7 +63,7 @@ Key steps performed in SQL:
 
 <img width="365" height="592" alt="SQL - Repeated Cust" src="https://github.com/user-attachments/assets/b5eb7386-735a-4674-bcc4-0e23a72538e3" />
 
-<img width="823" height="461" alt="SQL - Revenue YoY Growth" src="https://github.com/user-attachments/assets/b522156e-5177-4118-a63c-092fd868872a" />
+<img width="712" height="459" alt="SQL - Revenue YoY Growth" src="https://github.com/user-attachments/assets/59723f28-d3fe-4ad3-84a8-840fd2c415e7" />
 
 
 
