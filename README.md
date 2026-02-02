@@ -63,22 +63,20 @@ Key steps performed in SQL:
 
 <img width="365" height="592" alt="SQL - Repeated Cust" src="https://github.com/user-attachments/assets/b5eb7386-735a-4674-bcc4-0e23a72538e3" />
 
+<img width="823" height="461" alt="SQL - Revenue YoY Growth" src="https://github.com/user-attachments/assets/b522156e-5177-4118-a63c-092fd868872a" />
+
+
 
 ---
 
 ## 📐 Key Metrics & KPIs Created
 The following metrics were calculated using **SQL and DAX**:
-- Average & Median Revenue per Customer
-- Total Revenue & Customers
-- Revenue per Product
-- Revenue per Customer Age Group
-- Daily, Monthly, and Yearly Revenue
-- Brand-wise & Category-wise Revenue and Orders
+- Median Revenue per Customer
+- Total Revenue & Total Customers
+- Revenue per Product & Customer Age
+- Average Order Value
+- Brand-wise, Country wise & Category-wise Revenue and Orders
 - Continent-wise Store Performance
-- Top-Selling Products by:
-  - Revenue
-  - Orders
-  - Quantity Sold
 
 ---
 
