@@ -13,7 +13,7 @@
 
 ---
 
-This project analyzes sales performance for a global **electronics retail store**(63K rows) using **SQL for Data Preparation and Analytics** and **Power BI for Data Modeling, DAX Calculations, and Interactive Dashboards**.
+This project analyzes sales performance for a global **electronics retail store(63K rows)** using **SQL for Data Preparation and Analytics** and **Power BI for Data Modeling, DAX Calculations, and Interactive Dashboards**.
 
 The objective is to uncover **Revenue Trends, Customer Behavior, Product & Category Performance, and Store-Level Insights** to support data-driven business decisions.
 
