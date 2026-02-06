@@ -151,9 +151,10 @@ The following metrics were calculated using **SQL and DAX**:
 
 This project was not without its challenges, but it provided good learning opportunities:
 
-    Complex Data Visualization: Designing effective visual representations of complex datasets was challenging but critical for conveying insights clearly and compellingly.
-    Balancing Breadth and Depth: Deciding how deeply to dive into each analysis while maintaining a broad overview of the data landscape required constant balancing to ensure comprehensive coverage without getting lost in details.
+Complex Data Visualization: Designing effective visual representations of complex datasets was challenging but critical for conveying insights clearly and compellingly.
+Balancing Breadth and Depth: Deciding how deeply to dive into each analysis while maintaining a broad overview of the data landscape required constant balancing to ensure comprehensive coverage without getting lost in details.
 
+    
 ## ✅ Conclusion
 This project demonstrates:
 - Strong **SQL-based data preparation**
