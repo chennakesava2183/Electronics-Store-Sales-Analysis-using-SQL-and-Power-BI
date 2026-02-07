@@ -53,8 +53,11 @@ The dataset consists of multiple relational tables:
 
 ---
 
-## Dataset File - 
-https://mavenanalytics.io/data-playground/global-electronics-retailer
+
+# Dataset File 
+- **Source:** https://mavenanalytics.io/data-playground/global-electronics-retailer
+- **Size:** 63K rows
+- **File Size:** ~4.6 MB
 
 ---
 
