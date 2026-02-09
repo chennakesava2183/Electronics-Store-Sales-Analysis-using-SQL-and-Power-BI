@@ -69,10 +69,10 @@ Key steps performed in SQL:
 
 ## 📐 Key Metrics & KPIs Created
 The following metrics were calculated using **SQL and DAX**:
-- Median Revenue per Customer
+- [Median Revenue per Customer](https://github.com/chennakesava2183/Electronics-Store-Sales-Analysis-using-SQL-and-Power-BI/blob/bd5350bac5d8df4c06675fae9bc10afa41b1b116/PowerBI/Median%20Revenue%20per%20Customer.PNG)
 - Total Revenue & Total Customers
-- Revenue per Product & Customer Age
-- Average Order Value, [Customer Churn Analysis](https://github.com/chennakesava2183/Electronics-Store-Sales-Analysis-using-SQL-and-Power-BI/blob/1961fa507e75f4a40fe79ed58d6175b2e80ce453/sql_queries/Customer_Churn.sql)
+- Revenue per Product & [Customer Age](https://github.com/chennakesava2183/Electronics-Store-Sales-Analysis-using-SQL-and-Power-BI/blob/bd5350bac5d8df4c06675fae9bc10afa41b1b116/PowerBI/Customer%20Age.PNG)
+- [Average Order Value](https://github.com/chennakesava2183/Electronics-Store-Sales-Analysis-using-SQL-and-Power-BI/blob/bd5350bac5d8df4c06675fae9bc10afa41b1b116/PowerBI/AOV.PNG), [Customer Churn Analysis](https://github.com/chennakesava2183/Electronics-Store-Sales-Analysis-using-SQL-and-Power-BI/blob/1961fa507e75f4a40fe79ed58d6175b2e80ce453/sql_queries/Customer_Churn.sql)
 - Brand-wise, Country wise & Category-wise Revenue and Orders
 - Continent-wise Store Performance
 
@@ -112,12 +112,14 @@ A [**Calendar Table**](https://github.com/chennakesava2183/Electronics-Store-Sal
 ---
 
 ## 📌 Key Business Insights
-- Certain **brands and categories contribute disproportionately to total revenue**
+- Adventure Works & Costco contributed disproportionately to total revenue
 - **Customer age group 30–80** generates the highest average revenue
+- Computers Category registered the highest revenue overall
 - **Larger stores generate higher revenues**
-- **Seasonal revenue spikes** are observed during specific months
+- **Seasonal revenue spikes** are observed during Dec, Jan & Feb months, whereas Apr registered very low revenue
 - **Currency fluctuations** impact international sales reporting
 - Most Customers preferred **Black, White & Grey** Color Products
+- 2019 saw the highest order quantity of 68k
 
 ---
 
