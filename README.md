@@ -112,21 +112,21 @@ A [**Calendar Table**](https://github.com/chennakesava2183/Electronics-Store-Sal
 ---
 
 ## 📌 Key Business Insights
-- Adventure Works & Costco contributed disproportionately to total revenue
-- **Customer age group 30–80** generates the highest average revenue
-- Computers Category registered the highest revenue overall
-- **Larger stores generate higher revenues**
-- **Seasonal revenue spikes** are observed during Dec, Jan & Feb months, whereas Apr registered very low revenue
+- **Adventure Works** & **Costco** contributed disproportionately to total revenue
+- Customer age group **30–80** generates the highest average revenue
+- **Computers** Category registered the highest revenue overall
+- **Larger stores** generate higher revenues
+- Seasonal revenue spikes are observed during **Dec, Jan & Feb** months, whereas **Apr** registered very low revenue
 - **Currency fluctuations** impact international sales reporting
 - Most Customers preferred **Black, White & Grey** Color Products
-- 2019 saw the highest order quantity of 68k
+- **2019** saw the highest order quantity of **68k**
 
 ---
 
 ## 🧠 Business Recommendations
-- Focus inventory and promotions on high-performing brands and categories
-- Optimize store operations in underperforming regions
-- Target high-value customer age groups with personalized marketing campaigns
+- Focus **inventory and promotions** on high-performing brands and categories
+- Optimize store operations in **underperforming regions**
+- Target **high-value customer age groups** with personalized marketing campaigns
 - Use historical revenue trends for demand forecasting and staffing optimization
 
 ---
