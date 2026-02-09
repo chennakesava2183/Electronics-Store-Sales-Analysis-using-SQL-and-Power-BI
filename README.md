@@ -65,11 +65,7 @@ Key steps performed in SQL:
 - Standardized date and currency formats
 - Converted revenue into **USD using exchange rates**
 - Joined fact and dimension tables and created VIEWS for Power BI
-
-
- 
-- Created derived metrics for analysis
-
+- Created derived metrics for analysis in Power BI & SQL
 
 
 ---
@@ -88,7 +84,7 @@ The following metrics were calculated using **SQL and DAX**:
 ## 📊 Power BI Dashboard Highlights
 
 ### 📈 Revenue Trends
-- Monthly revenue
+- Seasonal Monthly revenue
 - Yearly revenue
 
 ### 🌍 Geographical Analysis
@@ -96,8 +92,10 @@ The following metrics were calculated using **SQL and DAX**:
 - Store performance by region
 
 ### 👥 Customer Insights
+- Customer Churn Analysis
 - Revenue by age group
 - Gender-wise revenue distribution
+
 
 ### 🏷️ Product & Brand Analysis
 - Top products by revenue, orders, and quantity
