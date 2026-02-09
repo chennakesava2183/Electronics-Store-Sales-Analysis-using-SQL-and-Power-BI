@@ -50,7 +50,7 @@ The dataset consists of multiple relational tables:
 
 
 # Dataset File 
-- **Source:** https://mavenanalytics.io/data-playground/global-electronics-retailer
+- **Source:** [Maven Analytics](https://mavenanalytics.io/data-playground/global-electronics-retailer)
 - **Size:** 63K rows
 - **File Size:** ~4.6 MB
 
@@ -58,13 +58,10 @@ The dataset consists of multiple relational tables:
 
 ## 🧹 Data Cleaning & Preparation (SQL)
 Key steps performed in SQL:
-- Removed invalid or incomplete records
-
-
-
+- Removed invalid or incomplete records [1](https://github.com/chennakesava2183/Electronics-Store-Sales-Analysis-using-SQL-and-Power-BI/blob/1961fa507e75f4a40fe79ed58d6175b2e80ce453/sql_queries/Checking%20Duplicates.sql). [2](https://github.com/chennakesava2183/Electronics-Store-Sales-Analysis-using-SQL-and-Power-BI/blob/1961fa507e75f4a40fe79ed58d6175b2e80ce453/sql_queries/Checking%20Null%20Values_01.sql). [3](https://github.com/chennakesava2183/Electronics-Store-Sales-Analysis-using-SQL-and-Power-BI/blob/1961fa507e75f4a40fe79ed58d6175b2e80ce453/sql_queries/Checking%20Null%20Values%2002.sql). [4](https://github.com/chennakesava2183/Electronics-Store-Sales-Analysis-using-SQL-and-Power-BI/blob/1961fa507e75f4a40fe79ed58d6175b2e80ce453/sql_queries/Information%20Schema%20Checking.sql)
 - Standardized date and currency formats
 - Converted revenue into **USD using exchange rates**
-- Joined fact and dimension tables and created VIEWS for Power BI
+- Joined fact and dimension tables and created [**VIEWS**](https://github.com/chennakesava2183/Electronics-Store-Sales-Analysis-using-SQL-and-Power-BI/blob/1961fa507e75f4a40fe79ed58d6175b2e80ce453/sql_queries/sales_data_final_view.sql) for Power BI
 - Created derived metrics for analysis in Power BI & SQL
 
 
@@ -75,7 +72,7 @@ The following metrics were calculated using **SQL and DAX**:
 - Median Revenue per Customer
 - Total Revenue & Total Customers
 - Revenue per Product & Customer Age
-- Average Order Value
+- Average Order Value, [Customer Churn Analysis](https://github.com/chennakesava2183/Electronics-Store-Sales-Analysis-using-SQL-and-Power-BI/blob/1961fa507e75f4a40fe79ed58d6175b2e80ce453/sql_queries/Customer_Churn.sql)
 - Brand-wise, Country wise & Category-wise Revenue and Orders
 - Continent-wise Store Performance
 
@@ -84,8 +81,8 @@ The following metrics were calculated using **SQL and DAX**:
 ## 📊 Power BI Dashboard Highlights
 
 ### 📈 Revenue Trends
-- Seasonal Monthly revenue
-- Yearly revenue
+- [Seasonal Monthly revenue](https://github.com/chennakesava2183/Electronics-Store-Sales-Analysis-using-SQL-and-Power-BI/blob/1961fa507e75f4a40fe79ed58d6175b2e80ce453/sql_queries/Seasonal_Monthly_Revenue.sql)
+- [Yearly revenue](https://github.com/chennakesava2183/Electronics-Store-Sales-Analysis-using-SQL-and-Power-BI/blob/1961fa507e75f4a40fe79ed58d6175b2e80ce453/sql_queries/revenue_yoy_growth.sql)
 
 ### 🌍 Geographical Analysis
 - Revenue by country
@@ -106,7 +103,9 @@ The following metrics were calculated using **SQL and DAX**:
 - Revenue per store
 - Store size vs revenue comparison
 
-### A **Calendar Table** was created in Power BI to support time-based analysis and accurate customer age calculations.
+A [**Calendar Table**](https://github.com/chennakesava2183/Electronics-Store-Sales-Analysis-using-SQL-and-Power-BI/blob/1961fa507e75f4a40fe79ed58d6175b2e80ce453/PowerBI/Power%20BI%20Calendar%20Table.PNG) was created in Power BI to support time-based analysis and accurate customer age calculations.
+
+### [Final Dashboard File](https://github.com/chennakesava2183/Electronics-Store-Sales-Analysis-using-SQL-and-Power-BI/blob/1961fa507e75f4a40fe79ed58d6175b2e80ce453/PowerBI/Power%20BI%20Report_Final_New.pbix)
 
 
 
